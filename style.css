@@ -1,0 +1,112 @@
+
+.navbar{
+	height: 5em;
+	width:100%;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+.navbar-brand{
+	font-size: 35px;
+	font-family: 'Brush Script MT', cursive;
+	padding-left: 10px;
+	padding-right: 20px;
+}
+#navbarNavDropdown{
+	font-size: 15px;
+	text-align:center;
+	margin-left: 10px;
+	height: 10px;
+	padding-left: 25px;
+}
+.nav-link:hover {
+	color:#000000;
+}
+
+.col-md-6{
+	font-family: gergia, serif;
+	font-size: 35px;
+	padding: 20px;
+}
+
+h2{
+	font-family: georgia, serif;
+	font-weight: bold;
+	font-size: 45px;
+}
+
+#mainHome{
+	background-image: url('https://cdn.pixabay.com/photo/2016/11/19/12/37/knives-1839061_1280.jpg');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 50px 0;
+}
+#mainText{
+	font-family: georgia, serif;
+	font-weight: bold;
+	font-size: 45px;
+	color: #FFFFFF;
+}
+#itemHome{
+	font-family: Times, serif;
+	font-size: 15px;
+	padding-top: 100px;
+	background-color: ;
+
+}
+#itemHome img{
+	width: auto;
+	height: 300px
+}
+
+h5{
+	font-weight: bold:
+}
+
+#bottomHome{
+	margin: auto;
+	padding-bottom: 200px;
+	padding-top: 100px;
+}
+}
+#bottomText{
+	font-family: georgia, serif;
+	margin: auto;
+}
+
+h3{
+	font-family: Georgia, sans-serif;
+	font-weight: bold;
+	font-size: 25px;
+	margin: auto;
+	border-radius: 12px;
+}
+
+#frame{
+	width: 450px;
+	height: 300px;
+}
+
+#toggleParagraph{
+	display: none;
+}
+
+#toggleButton{
+	border-radius: 50px;
+	font-size: 18px;
+	background-color: #212529;
+	color: white;
+	transition-duration: 0.4s;
+	cursor: pointer;
+	padding: 5px 10px;
+	border-color: #ffc107;
+}
+
+#toggleButton:hover{
+	background-color: #ffc107;
+}
+
+.navbar-brand{
+	color: white;
+}
